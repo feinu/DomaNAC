@@ -1,0 +1,5 @@
+username: you@example.org
+password: YourSecurePassword
+
+hostname: yourhost.example.org
+dns_entry: yourhost
